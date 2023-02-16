@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: American Heroes Scholarship
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    American Heroes Scholarship is a non-profit building the educational and economic future of high school and college students.
   action: # action button is optional
     label: Find Out More
     url: '#about'
